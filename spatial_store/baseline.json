@@ -1,0 +1,20 @@
+{
+    "scan_time": "2026-10-12T13:58:57",
+    "checksum": {
+        "India States-UTs.csv": "06240e606d3717819576e31d9f7654be7b50fa58a6ccd70798146b21a1693b07",
+        "2001_Dist.dbf": "ffd532be92e38ef9d8b75630be650baadf4586d1889e965e83108b1643c68ee1",
+        "2001_Dist.prj": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
+        "2001_Dist.sbn": "0e170f94406123a9b34a681cb10c690b3676c0cde1beac472bbd23b5f008f149",
+        "2001_Dist.sbx": "b0483d35db4e71330c9b3be617c94ab60ce2f70985e7397018ba418024aaa57d",
+        "2001_Dist.shp": "2de4a9e21553c193ff2936f7a8412402e74dcc5d45d8100cd556b356d8aee623",
+        "2001_Dist.shp.xml": "b0aaea8de5cbaebc3ae934f086668cfbc183e117b7c9675c2ef5ab791549e63b",
+        "2001_Dist.shx": "21fde25d8874aaece7a158449a70f50789e308fe56e5a128871b9d0d45acb0a6",
+        "2011_Dist.dbf": "2c7b03578fdf41a4c4e29941a564fa90bf0b0e4f865f5e54481ef7ac8494eb7d",
+        "2011_Dist.prj": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
+        "2011_Dist.sbn": "5f9fc6f63f7f3afbb00213e9ec5d9e0f5614acb5ec4b09fb7d8e226ac9a131be",
+        "2011_Dist.sbx": "4cfa7e863894118bf929e9eb4b4d97652481ce0f58359f2bb27848a1ae76abcd",
+        "2011_Dist.shp": "3636e627a519f67b4615b6a97df48c2b279e8c7b2566d3bfbc3eda1d06e33206",
+        "2011_Dist.shx": "12b6028dfac9e3f20686b3d0a44f9d3989acfdb3f3cda853881d1cf2d8579eab"
+    },
+    "metadata": {}
+}

@@ -1,0 +1,17 @@
+{
+    "new_file": 0,
+    "changed_file": 1,
+    "unchanged_file": 2,
+    "missing_file": 0,
+    "details": {
+        "new": [],
+        "unchanged": [
+            "scan_time",
+            "metadata"
+        ],
+        "changed": [
+            "checksum"
+        ],
+        "missing": []
+    }
+}
