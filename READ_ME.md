@@ -1,5 +1,5 @@
 OVERVIEW:
-# The  Automated Spatial Checksum Generator is a Python-based tool designed to monitor files and identify changes using cryptographic checksums.
+# The,,,  Automated Spatial Checksum Generator is a Python-based tool designed to monitor files and identify changes using cryptographic checksums.
 
 # It generates SHA-256 hashes for files, stores the baseline checksum values in JSON format, and compares current files against the baseline to detect modifications.
 
